@@ -1,3 +1,4 @@
+![CI](https://github.com/tlwong1/ai-dev-portfolio/actions/workflows/ci.yml/badge.svg)
 # AI-Assisted Expense Tracker
 
 A Python expense tracking module built to demonstrate AI-assisted software development practices, including AI-generated test suites and documented human-AI workflows.
